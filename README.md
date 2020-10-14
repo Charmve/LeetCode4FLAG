@@ -88,10 +88,10 @@
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a>
         </td>
                 <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
