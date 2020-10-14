@@ -76,7 +76,7 @@ Output: false
 -- 比较 ``pivot_element`` 与 ``target`` 以确定在哪一部分进行进一步查找。
 
 
-## Solution
+## Code
 
 <div>
   <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
