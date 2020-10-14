@@ -16,7 +16,7 @@
 
 ## Top100
 
-<p align="center">
+<p align="right">
 	<a class="ai-header-badge" target="_blank" href="https://github.com/madewithml/basics">
 	     <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
 	</a>&nbsp;
