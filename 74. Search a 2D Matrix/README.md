@@ -11,6 +11,7 @@ Write an efficient algorithm that searches for a value in an m x n matrix. This 
 <div align="center">
   <img src="https://assets.leetcode.com/uploads/2020/10/05/mat.jpg" alt="English Version">
 </div>
+<br>
 
 
 ```
@@ -23,7 +24,7 @@ Output: true
 <div align="center">
   <img src="https://assets.leetcode.com/uploads/2020/10/05/mat2.jpg" alt="English Version">
 </div>
-
+<br>
 
 ```
 Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 13
@@ -42,7 +43,7 @@ Output: false
 - m == matrix.length
 - n == matrix[i].length
 - 0 <= m, n <= 100
--10<sup>4</sup> <= matrix[i][j], target <= 10<sup>4</sup>
+- -10<sup>4</sup> <= matrix[i][j], target <= 10<sup>4</sup>
 
 ## Solution
 
