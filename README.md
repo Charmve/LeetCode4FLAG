@@ -65,9 +65,13 @@
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
         </td>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix/">✂️ 74. Search a 2D Matrix</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a> </div>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
