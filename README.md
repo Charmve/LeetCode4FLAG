@@ -1,3 +1,7 @@
+<div align="right">
+          <img align="center" src="FLAG.jpg">
+</div>
+
 # LeetCode4FLAG
 
 🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. Offer, offer, offer!
@@ -13,7 +17,6 @@
  
 ```
 
-<img align="center" src="FLAG.jpg">
 
 ## Top100
 
