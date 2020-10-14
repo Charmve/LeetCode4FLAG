@@ -105,19 +105,19 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/happy-number/">🐼 202. Happy Number</a></td>
+        <td><a href="https://leetcode-cn.com/problems/happy-number/">🐋 202. Happy Number</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐼 1120. Maximum Average Subtree</a></td>
+        <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐑 1120. Maximum Average Subtree</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐼 543. Diameter of Binary Tree</a></td>
+        <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐧 543. Diameter of Binary Tree</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
