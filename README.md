@@ -58,20 +58,20 @@
         </td>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix/">✂️ 74. Search a 2D Matrix</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a> </div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/two-sum/">🐼 1. Two Sum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">📈 21. Merge Two Sorted Lists</a>
         </td>
                 <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
         <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">🔎 107. Binary Tree Level Order Traversal II</a>
     </td>
     <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
             <a href="https://leetcode-cn.com/problems/longest-valid-parentheses/">👑 32. Longest Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
     </td>
     </tr>
         <tr>
@@ -95,31 +95,31 @@
             <a href="https://leetcode-cn.com/problems/valid-parentheses/">🎡 20. Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/number-of-islands/">🌄 200. Number of Islands</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/happy-number/">🐼 202. Happy Number</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐼 1120. Maximum Average Subtree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐼 543. Diameter of Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
    		<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
@@ -128,19 +128,19 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🌈 240. Search a 2D Matrix II</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
        		<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -149,13 +149,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🌈 240. Search a 2D Matrix II</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
 <tr>
@@ -169,20 +169,20 @@
         </td>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/">🚠 94. Binary Tree Inorder Traversal</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">📈 21. Merge Two Sorted Lists</a>
         </td>
                 <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@
         <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">🔎 107. Binary Tree Level Order Traversal II</a>
     </td>
     <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
@@ -198,7 +198,7 @@
             <a href="https://leetcode-cn.com/problems/longest-valid-parentheses/">👑 32. Longest Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
         <tr>
@@ -206,31 +206,31 @@
             <a href="https://leetcode-cn.com/problems/valid-parentheses/">🎡 20. Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/number-of-islands/">🌄 200. Number of Islands</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/happy-number/">🐼 202. Happy Number</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐼 1120. Maximum Average Subtree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐼 543. Diameter of Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
    		<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
@@ -239,19 +239,19 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/range-sum-of-bst/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -260,13 +260,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">⛺ 173. Binary Search Tree Iterator</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
@@ -280,13 +280,13 @@
         </td>
         <td><a href="https://leetcode-cn.com/problems/find-and-replace-in-string/">🚠 833. Find And Replace in String</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
     </td>
     </tr>
    	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -295,13 +295,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/range-sum-of-bst/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -310,13 +310,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">⛺ 173. Binary Search Tree Iterator</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
      <tr>
@@ -330,13 +330,13 @@
         </td>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/">🚠 94. Binary Tree Inorder Traversal</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
     </td>
     </tr>
    	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -345,13 +345,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/range-sum-of-bst/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -360,13 +360,13 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">⛺ 173. Binary Search Tree Iterator</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </div>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     </tbody>
