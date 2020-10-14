@@ -57,7 +57,7 @@ public:
 ```
 
 <div>
-  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 </div>
