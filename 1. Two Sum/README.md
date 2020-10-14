@@ -6,7 +6,6 @@ You may assume that each input would have <strong>exactly one solution</strong>,
 
 You can return the answer in any order.
 
- 
 
 <strong>Example 1:</strong>
 ```
