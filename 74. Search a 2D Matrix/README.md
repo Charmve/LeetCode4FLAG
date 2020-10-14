@@ -24,6 +24,7 @@ Output: true
   <img src="https://assets.leetcode.com/uploads/2020/10/05/mat2.jpg" alt="English Version">
 </div>
 
+
 ```
 Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,50]], target = 13
 Output: false
@@ -34,7 +35,7 @@ Output: false
 ```
 Input: matrix = [], target = 0
 Output: false
-``` 
+```
 
 <strong>Constraints:</strong>
 
@@ -46,8 +47,7 @@ Output: false
 ## Solution
 
 <div>
-  <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | 
-  <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | 
-  <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a>
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpy">🐍 Python </a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 </div>
-
