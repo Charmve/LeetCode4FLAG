@@ -4,7 +4,7 @@ class Solution {
     if (m == 0) return false;
     int n = matrix[0].length;
 
-    // 二分查找
+    // binary search
     int left = 0, right = m * n - 1;
     int pivotIdx, pivotElement;
     while (left <= right) {
