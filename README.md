@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
           <img align="center" src="FLAG.jpg">
 </div>
 
