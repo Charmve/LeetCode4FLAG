@@ -5,7 +5,7 @@ class Solution:
             return False
         n = len(matrix[0])
         
-        #二分查找
+        #binary search
         left, right = 0, m * n - 1
         while left <= right:
                 pivot_idx = (left + right) // 2
