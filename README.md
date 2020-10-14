@@ -1,5 +1,9 @@
 <div align="center">
           <img align="center" src="FLAG.jpg">
+  <p align="center">
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/README.md"><img src="https://img.shields.io/badge/language-English-green" alt="English Version"></a>
+  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/ReadmeChinese.md"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
+  </p>
 </div>
 
 # LeetCode4FLAG
