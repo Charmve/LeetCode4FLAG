@@ -77,6 +77,14 @@ Output: false
 
 
 ## Code
+```cpp
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+
+    }
+};
+```
 
 <div>
   <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
