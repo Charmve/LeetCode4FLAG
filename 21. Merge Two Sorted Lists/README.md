@@ -34,6 +34,9 @@ Output: [0]
 - ``-100 <= Node.val <= 100``
 - Both l1 and l2 are sorted in <strong>non-decreasing</strong> order.
 
+
+## Code
+
 ```cpp
 /**
  * Definition for singly-linked list.
@@ -52,8 +55,6 @@ public:
     }
 };
 ```
-
-## Code
 
 <div>
   <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
