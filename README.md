@@ -1,3 +1,18 @@
+<p align="right">
+	<a class="ai-header-badge" target="_blank" href="https://github.com/madewithml/basics">
+	     <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://linkedin.com/in/wei-zhang-647b29133/">
+	      <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
+	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
+	</a>
+	&nbsp;<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
+	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
+	</a>
+</p>
+
 <div align="center">
   <img align="center" src="FLAG.jpg">
   <br><br>
@@ -24,21 +39,6 @@
 
 
 ## Top100
-
-<p align="right">
-	<a class="ai-header-badge" target="_blank" href="https://github.com/madewithml/basics">
-	     <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
-	</a>&nbsp;
-	<a class="ai-header-badge" target="_blank" href="https://linkedin.com/in/wei-zhang-647b29133/">
-	      <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-	</a>&nbsp;
-	<a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
-	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
-	</a>
-	&nbsp;<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
-	</a>
-</p>
 
 <table class="table table-striped table-bordered table-vcenter">
     <tbody class=top100-algorithm-table-content>
