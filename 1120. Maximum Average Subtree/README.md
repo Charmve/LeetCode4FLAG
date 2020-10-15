@@ -4,7 +4,7 @@ Given the root of a binary tree, find the maximum average value of any subtree o
 
 (A subtree of a tree is any node of that tree plus all its descendants. The average value of a tree is the sum of its values, divided by the number of nodes.)
 
-Example 1:
+<strong>Example 1:</strong>
 ```
 Input: [5,6,1]
 Output: 6.00000
@@ -17,7 +17,7 @@ Explanation:
 So the answer is 6 which is the maximum.
 ```
 
-Note:
+<strong>Note:</strong>
 
 1. The number of nodes in the tree is between 1 and 5000.<br>
 2. Each node will have a value between 0 and 100000.<br>
