@@ -85,9 +85,8 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a>
-        </td>
-                <td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td>
 	<div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
@@ -162,7 +161,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐧 543. Diameter of Binary Tree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree">🐧 543. Diameter of Binary Tree</a></td>
         <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
@@ -185,8 +184,8 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
-        <td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
+    <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
@@ -214,9 +213,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🌈 240. Search a 2D Matrix II</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
 <tr>
@@ -260,10 +263,14 @@
     </tr>
     <tr>
     <td>
-        <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">🔎 107. Binary Tree Level Order Traversal II</a>
+        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
     </td>
     <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
