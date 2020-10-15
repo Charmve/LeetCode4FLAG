@@ -97,71 +97,111 @@
     </tr>
     <tr>
     <td>
-        <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">🔎 107. Binary Tree Level Order Traversal II</a>
+        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
     </td>
     <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
         <td>
-            <a href="https://leetcode-cn.com/problems/longest-valid-parentheses/">👑 32. Longest Valid Parentheses</a>
+            <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses">👑 32. Longest Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
         <tr>
         <td>
-            <a href="https://leetcode-cn.com/problems/valid-parentheses/">🎡 20. Valid Parentheses</a>
+            <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/20.%20Valid%20Parentheses">🎡 20. Valid Parentheses</a>
         </td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/20.%20Valid%20Parentheses/20_valid-parentheses.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/20.%20Valid%20Parentheses/20_valid-parentheses.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/20.%20Valid%20Parentheses/20_valid-parentheses.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/number-of-islands/">🌄 200. Number of Islands</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/happy-number/">🐋 202. Happy Number</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number">🐋 202. Happy Number</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐑 1120. Maximum Average Subtree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree">🐑 1120. Maximum Average Subtree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐧 543. Diameter of Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
-   		<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
+    <td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
         </td>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🌈 240. Search a 2D Matrix II</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🚀 124. Binary Tree Maximum Path Sum</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
        		<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -188,22 +228,34 @@
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
         </td>
-        <td><a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/">🚠 94. Binary Tree Inorder Traversal</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/94.%20Binary%20Tree%20Inorder%20Traversal">🚠 94. Binary Tree Inorder Traversal</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/94.%20Binary%20Tree%20Inorder%20Traversal/94_binary-tree-inorder-traversal.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/94.%20Binary%20Tree%20Inorder%20Traversal/94_binary-tree-inorder-traversal.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/94.%20Binary%20Tree%20Inorder%20Traversal/94_binary-tree-inorder-traversal.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">📈 21. Merge Two Sorted Lists</a>
         </td>
                 <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
@@ -237,19 +289,19 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/happy-number/">🐼 202. Happy Number</a></td>
+        <td><a href="https://leetcode-cn.com/problems/happy-number/">🐟 202. Happy Number</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐼 1120. Maximum Average Subtree</a></td>
+        <td><a href="https://leetcode-cn.com/problems/maximum-average-subtree/">🐋 1120. Maximum Average Subtree</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐼 543. Diameter of Binary Tree</a></td>
+        <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐏 543. Diameter of Binary Tree</a></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
@@ -258,9 +310,12 @@
         <font color = blue>Medium</font>
         </td>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/range-sum-of-bst/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
@@ -355,9 +410,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
    	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
