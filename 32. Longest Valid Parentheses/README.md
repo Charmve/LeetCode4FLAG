@@ -29,7 +29,7 @@ Output: 0
 ```cpp
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+    int longestValidParentheses(string s) {
 
     }
 };
