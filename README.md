@@ -250,7 +250,7 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">📈 21. Merge Two Sorted Lists</a>
         </td>
-                <td>
+    <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
@@ -306,11 +306,13 @@
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
-   		<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
+    <td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
-        </td>
+    </td>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a>
+    </td>
+    <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
@@ -319,8 +321,8 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
-        <td>
+    <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
+    <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
