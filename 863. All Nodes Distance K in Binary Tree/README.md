@@ -21,9 +21,9 @@ have values 7, 4, and 1.
 </div>
 <br>
 
-Note that the inputs "root" and "target" are actually TreeNodes.
+> Note that the inputs "root" and "target" are actually TreeNodes.
 
-The descriptions of the inputs above are just serializations of these objects.
+> The descriptions of the inputs above are just serializations of these objects.
  
 
 Note:
