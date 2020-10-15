@@ -10,16 +10,19 @@ For this problem, a path is defined as any node sequence from some starting node
   <img src="https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg" alt="example">
 </div>
 <br>
+
 ```
 Input: root = [1,2,3]
 Output: 6
 ```
+
 <strong>Example 2:</strong>
 
 <div align="center">
   <img src="https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg" alt="example2">
 </div>
 <br>
+
 ```
 Input: root = [-10,9,20,null,null,15,7]
 Output: 42
