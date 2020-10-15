@@ -321,9 +321,13 @@
     </td>
     </tr>
     <tr>
-    <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
-    <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
+        <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
@@ -377,9 +381,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++</a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -431,9 +439,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix-ii/">🚁 938. Range Sum of BST</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
@@ -454,4 +466,5 @@
     </tbody>
 </table>
 
+<br><br>
 # Updating...
