@@ -9,13 +9,14 @@ Given the root of a binary tree, find the maximum average value of any subtree o
 Input: [5,6,1]
 Output: 6.00000
 ```
-```
-Explanation: 
+
+<strong>Explanation: </strong>
 - For the node with value = 5 we have and average of (5 + 6 + 1) / 3 = 4.
 - For the node with value = 6 we have and average of 6 / 1 = 6.
 - For the node with value = 1 we have and average of 1 / 1 = 1.
+
 So the answer is 6 which is the maximum.
-```
+
 
 <strong>Note:</strong>
 
