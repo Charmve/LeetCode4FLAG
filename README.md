@@ -367,7 +367,7 @@
     </td>
     </tr>
     <tr>
-    <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
+    <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
        <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30">
@@ -385,12 +385,16 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java</a> </div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
-   	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
+   	<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
     </td>
     <tr>
@@ -404,12 +408,22 @@
     </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number">🚩 17. Letter Combinations of a Phone Number</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array">🚁 525. Contiguous Array</a></td>
         <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
