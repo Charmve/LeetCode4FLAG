@@ -107,10 +107,10 @@
     </td>
     </tr>
     <tr>
-        <td>
+    <td>
             <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses">👑 32. Longest Valid Parentheses</a>
-        </td>
-        <td>
+    </td>
+    <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.cpp">:shipit: C++</a> | 
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.py">🐍 Python </a> | 
@@ -274,11 +274,15 @@
     </td>
     </tr>
     <tr>
-        <td>
-            <a href="https://leetcode-cn.com/problems/longest-valid-parentheses/">👑 32. Longest Valid Parentheses</a>
-        </td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td>
+            <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses">👑 32. Longest Valid Parentheses</a>
+    </td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/32.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
         <tr>
@@ -353,23 +357,31 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python  </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
+    <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
        <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30">
-        </td>
-        <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
+     </td>
+     <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
-        </td>
-        <td><a href="https://leetcode-cn.com/problems/find-and-replace-in-string/">🚠 833. Find And Replace in String</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+     </td>
+     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String">🚠 833. Find And Replace in String</a></td>
+     <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
@@ -407,9 +419,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
      <tr>
@@ -465,9 +481,13 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum/">🌈 239. Sliding Window Maximum</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     </tbody>
