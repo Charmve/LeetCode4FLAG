@@ -41,7 +41,7 @@ Input: nums = [4,-2], k = 2
 Output: [4]
 ```
 
-<strong>Constraints:</ strong>
+<strong>Constraints:</strong>
 
 - 1 <= nums.length <= 105
 - -104 <= nums[i] <= 104
