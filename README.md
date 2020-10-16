@@ -408,7 +408,7 @@
     </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number">🚩 17. Letter Combinations of a Phone Number</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number">🍐 17. Letter Combinations of a Phone Number</a></td>
     <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
@@ -459,18 +459,22 @@
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
         </td>
-        <td><a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/">🚠 94. Binary Tree Inorder Traversal</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String">🍋 678. Valid Parenthesis String</a></td>
         <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
@@ -478,18 +482,22 @@
         <font color = blue>Medium</font>
     </td>
     <tr>
-        <td><a href="https://leetcode-cn.com/problems/range-sum-of-bst/">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
-        <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III">⛵ 245. Shortest Word Distance III</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores">🚁 178. Rank Scores</a></td>
         <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
