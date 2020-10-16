@@ -31,21 +31,9 @@ For example, given the above ``Scores`` table, your query should generate the fo
 
 ## Debug
 ```cpp
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
-class Solution {
-public:
-    int rangeSumBST(TreeNode* root, int L, int R) {
+# Write your MySQL query statement below
 
-    }
-};
+
 ```
 
 🐛 Online Debuging: https://leetcode-cn.com/problems/rank-scores/
