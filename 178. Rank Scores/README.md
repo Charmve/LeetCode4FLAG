@@ -26,7 +26,7 @@ For example, given the above ``Scores`` table, your query should generate the fo
 | 3.50  | 4       |
 +-------+---------+
 ```
-<strong>Important Note</strong>: For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example `<strong>``Rank``</strong>`.
+<strong>Important Note</strong>: For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example <strong>`Rank`</strong>.
 
 
 ## Debug
