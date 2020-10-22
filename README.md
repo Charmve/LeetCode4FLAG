@@ -7,10 +7,10 @@
 	</a>&nbsp;
 	<a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
 	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
-	</a>
-	&nbsp;<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
+	</a>&nbsp;
+	<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
 	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
-	</a>
+	</a>&nbsp;
 </p>
 
 <div align="center">
