@@ -451,11 +451,81 @@
 	</div>
     </td>
     </tr>
-     <tr>
+    <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
        <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602666358409&di=08bb5ed27b407af6cc5a44efba81bc71&imgtype=0&src=http%3A%2F%2Fimage.xizhi.com%2Fd%2Ffile%2Fp%2F2019%2F09-27%2F61ea47a39c440d6f3494232890084dd1.jpg" width="78" height="51">
+        </td>
+        <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
+        <font color = green>Easy</font>
+        </td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
+        <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String">🍋 678. Valid Parenthesis String</a></td>
+        <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+   	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
+        <font color = blue>Medium</font>
+    </td>
+    <tr>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III">⛵ 245. Shortest Word Distance III</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores">🚁 178. Rank Scores</a></td>
+        <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
+        <font color = red>Hard</font>
+    </td>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">⛺ 173. Binary Search Tree Iterator</a></td>
+        <td>
+        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+    </td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
+        <br>
+        <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
+       <img class="ai-header-badge-img" src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMicrosoft&psig=AOvVaw0BSc8aM8dxE2y6-zvvIcOT&ust=1604383132265000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi2s4uX4-wCFQAAAAAdAAAAABAD" width="78" height="51">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
