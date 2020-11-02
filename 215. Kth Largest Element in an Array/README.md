@@ -3,10 +3,10 @@
 Find the <strong>k</strong><sup>th</sup> largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
 <strong>Example 1:</strong>
-``
+```
 Input: [3,2,1,5,6,4] and k = 2
 Output: 5
-``
+```
 
 <strong>Example 2:</strong>
 ```
@@ -22,7 +22,7 @@ You may assume k is always valid, 1 ≤ k ≤ array's length.
 ```cpp
 class Solution {
 public:
-    int findMaxLength(vector<int>& nums) {
+    int findKthLargest(vector<int>& nums, int k) {
 
     }
 };
