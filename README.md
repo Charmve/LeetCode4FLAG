@@ -455,7 +455,7 @@
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602666358409&di=08bb5ed27b407af6cc5a44efba81bc71&imgtype=0&src=http%3A%2F%2Fimage.xizhi.com%2Fd%2Ffile%2Fp%2F2019%2F09-27%2F61ea47a39c440d6f3494232890084dd1.jpg" width="78" height="51">
+       <img class="ai-header-badge-img" src="https://cdn.vox-cdn.com/thumbor/drG69iSTSbsYDNcckVzB3x97pDA=/7x0:633x417/920x613/filters:focal(7x0:633x417):format(webp)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="78" height="51">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
