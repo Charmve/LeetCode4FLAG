@@ -455,7 +455,7 @@
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-       <img class="ai-header-badge-img" src="https://cdn.vox-cdn.com/thumbor/drG69iSTSbsYDNcckVzB3x97pDA=/7x0:633x417/920x613/filters:focal(7x0:633x417):format(webp)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="78" height="51">
+       <img class="ai-header-badge-img" src="https://qph.fs.quoracdn.net/main-qimg-05f1ceb11a77b68fd6bf72da21b3400c" width="78" height="51">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
@@ -525,7 +525,7 @@
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-       <img class="ai-header-badge-img" src="https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Microsoft-Logo-2012.jpg" width="78" height="51">
+       <img class="ai-header-badge-img" src="https://cdn.vox-cdn.com/thumbor/drG69iSTSbsYDNcckVzB3x97pDA=/7x0:633x417/920x613/filters:focal(7x0:633x417):format(webp)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="78" height="51">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
