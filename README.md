@@ -525,7 +525,7 @@
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-       <img class="ai-header-badge-img" src="https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMicrosoft&psig=AOvVaw0BSc8aM8dxE2y6-zvvIcOT&ust=1604383132265000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi2s4uX4-wCFQAAAAAdAAAAABAD" width="78" height="51">
+       <img class="ai-header-badge-img" src="https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Microsoft-Logo-2012.jpg" width="78" height="51">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
