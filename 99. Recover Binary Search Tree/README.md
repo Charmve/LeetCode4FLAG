@@ -7,6 +7,11 @@ You are given the ``root`` of a binary search tree (BST), where exactly two node
  
 
 <strong>Example 1:</strong>
+<div align="center">
+  <img src="https://assets.leetcode.com/uploads/2020/10/28/recover1.jpg" alt="example1">
+</div>
+<br>
+
 ```
 Input: root = [1,3,null,null,2]
 Output: [3,1,null,null,2]
@@ -14,6 +19,11 @@ Explanation: 3 cannot be a left child of 1 because 3 > 1. Swapping 1 and 3 makes
 ```
 
 <strong>Example 2:</strong>
+<div align="center">
+  <img src="https://assets.leetcode.com/uploads/2020/10/28/recover2.jpg" alt="example1">
+</div>
+<br>
+
 ```
 Input: root = [3,1,4,null,null,2]
 Output: [2,1,4,null,null,3]
