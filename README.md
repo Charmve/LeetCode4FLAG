@@ -322,13 +322,13 @@
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum">⛵ 494. Target Sum</a>
     </td>
     <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
@@ -553,22 +553,22 @@
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III">⛵ 245. Shortest Word Distance III</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree">⛵ 236. Lowest Common Ancestor of a Binary Tree</a></td>
     <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores">🚁 178. Rank Scores</a></td>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address">🚁 468. Validate IP Address</a></td>
         <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.java">♨️ Java </a>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.java">♨️ Java </a>
 	</div>
     </td>
     </tr>
