@@ -33,9 +33,10 @@ Explanation: 2 cannot be in the right subtree of 3 because 2 < 3. Swapping 2 and
 <strong>Constraints:</strong>
 
 - The number of nodes in the tree is in the range ``[2, 1000]``.
-- ``-2<sup>31</sup> <= Node.val <= 2<sup>31</sup> - 1``
+- -2<sup>31</sup> <= Node.val <= 2<sup>31</sup> - 1
 
 ## Debug
+```
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
