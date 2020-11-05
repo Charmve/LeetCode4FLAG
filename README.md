@@ -632,7 +632,7 @@
     </tr>
     <tr>
     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
-    <td><font color = green⭐⭐⭐</font></td>
+    <td><font color = green>⭐⭐⭐</font></td>
     <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
@@ -654,14 +654,14 @@
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
-        <td><font color = red>Hard</font></td>
+        <td><font color = red>⭐⭐⭐</font></td>
         <td>
         <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
     </td>
     </tr>
     <tr>
     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
-    <td><font color = red⭐⭐⭐⭐⭐</font></td>
+    <td><font color = red>⭐⭐⭐⭐⭐</font></td>
     <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
