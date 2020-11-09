@@ -48,7 +48,7 @@ public:
 
 ## AC Code
 <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.java">♨️ Java </a>
-	</div>
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.py">🐍 Python </a> | 
+  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.java">♨️ Java </a>
+</div>
