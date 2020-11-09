@@ -617,7 +617,7 @@
 	    </td>
 	</tr>
     <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>动态规划</font>
+        	<br><font  size = 4>动态规划Dynamic Programming</font>
         </td>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
@@ -765,7 +765,7 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>递归</font>
+        	<br><font  size = 4>递归Recursion</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
@@ -836,7 +836,7 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="7" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>排序算法</font>
+        	<br><font  size = 4>排序算法 Sorting Algorithm</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
@@ -920,7 +920,7 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="7" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>遍历</font>
+        	<br><font  size = 4>遍历 Traverse/Visit</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
@@ -1004,15 +1004,15 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>双指针算法</font>
+        	<br><font  size = 4>双指针算法Dual pointer algorithm</font>
         </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
+        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters">✂️ 3. Longest Substring Without Repeating Characters</a></td>
+        <td><font color = green>⭐⭐⭐</font></td>
         <td>
 			<div>
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.java">♨️ Java </a>
 			</div>
     	</td>
     </tr>
@@ -1064,7 +1064,7 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>宽度/广度优先搜索</font>
+        	<br><font  size = 4>宽度/广度优先搜索 Breadth First Search</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
@@ -1135,7 +1135,7 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>深度优先搜索</font>
+        	<br><font  size = 4>深度优先搜索 Depth First Search</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
