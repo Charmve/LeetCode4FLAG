@@ -708,6 +708,7 @@
     </tr>
     <tr>
     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
+    <td><font color = green>⭐⭐⭐⭐⭐</font></td>
     <td>
         <div>
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
@@ -1319,7 +1320,7 @@
 - 逆序对
 - 区间和的个数
 
-# 宽度优先搜索
+## 宽度优先搜索
 
 - 单词接龙
 - 岛屿的个数
@@ -1328,7 +1329,7 @@
 - 二叉树的锯齿形层次遍历
 - 二叉树的右视图
 
-# 递归
+## 递归
 
 - 生成括号
 - 格雷编码
@@ -1337,7 +1338,7 @@
 - 全排列
 - 二叉树中的最大路径和
 
-# 遍历
+## 遍历
 
 - 买卖股票的最佳时机 III
 - 最大子数组 II
@@ -1347,15 +1348,7 @@
 - 二叉树的所有路径
 - 二叉树的层次遍历 II
 
-#  分治法
-
-- 两个排序数组的中位数
-- 合并k个排序链表
-- 平衡二叉树
-- 二叉树中的最大路径和
-- 验证二叉查找树
-
-# 深度优先搜索
+## 深度优先搜索
 
 - 二叉树的最小深度
 - 插入五
@@ -1363,18 +1356,6 @@
 - 单词接龙 II
 - 分割回文串
 - N皇后问题
-
-# 动态规划
-
-- 最大的假期天数
-- 爬楼梯关注问题
-- 正则表达式匹配
-- 打劫房屋
-- 单词拆分 I
-- 乘积最大子序列
-- 解码方法关注问题
-- 编辑距离
-
 
 # Community
 
