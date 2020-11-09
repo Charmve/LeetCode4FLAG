@@ -46,7 +46,7 @@ private:
 };
 ```
 
-🐛 Online Debuging: https://leetcode-cn.com/problems/maximum-average-subtree/ (no free now)
+🐛 Online Debuging: https://leetcode-cn.com/problems/maximum-average-subtree/ (not free now)
 
 ## AC Code
 <div>
