@@ -44,6 +44,9 @@ public:
 };
 ```
 
+🐛 Online Debuging: https://leetcode-cn.com/problems/two-sum/
+
+## AC Code
 <div>
   <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
   <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
