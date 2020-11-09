@@ -38,22 +38,11 @@ Output: 0
 
 ## Debug
 ```cpp
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
-    pair<int, int> dfs(TreeNode* root, double& min_avg) {
+    int lengthOfLongestSubstring(string s) {
 
     }
-private:
-    unordered_map<TreeNode*, pair<int, int>> m_;
 };
 ```
 
