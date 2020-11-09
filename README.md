@@ -598,7 +598,7 @@
     </tbody>
 </table>
 
-
+<br><br>
 # Classified by Algorithm
 <table class="table table-striped table-bordered table-vcenter">
     <tbody class=top100-algorithm-table-content>
@@ -1286,14 +1286,6 @@
 - 逆序对
 - 区间和的个数
 
-# 二分法
-
-- 寻找旋转排序数组中的最小值
-- 搜索旋转排序数组
-- 对x开根
-- 两个整数相除
-- 寻找峰值
-
 # 宽度优先搜索
 
 - 单词接龙
@@ -1350,12 +1342,21 @@
 - 解码方法关注问题
 - 编辑距离
 
-<br><br>
-# Updating...
+
+# Community
+
+- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/m2KYFcn9) This should be your first stop to talk with other Coding friends. Why don't you introduce yourself right now? [Join the Coding channel in LeetCode4FLAG Discord](https://discord.gg/m2KYFcn9)
+- You can also interact through [GitHub issues](https://github.com/Charmve/LeetCode4FLAG/issues). If there is any problem, or a change needs to be made to the repo, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- Subscribe to our [Offical Account with WeChat](https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true).
 
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+
+
+<br><br>
+# Updating...
 
 
 <!--
