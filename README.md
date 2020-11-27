@@ -61,7 +61,7 @@
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
         <br>
         <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602657666017&di=ebfa7ce509e08a3613cb09cf99182755&imgtype=0&src=http%3A%2F%2Fcn.toluna.com%2Fdpolls_images%2F2017%2F11%2F14%2F7410f15e-6237-4078-aa4a-efce7962f66f_x400.jpg" width="78" height="60">
+       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606451319200&di=2ab4f556738b77aab80f58c265f19827&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-497e6c397419d313dc83d03ad3ed8655_1200x500.jpg" width="78" height="60">
         </td>
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
