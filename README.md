@@ -335,7 +335,11 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐏 543. Diameter of Binary Tree</a></td>
         <td>
-        <div><a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_TF_Data_and_Models.ipynb">:shipit: C++ </a>| <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">🐍 Python </a> | <a href="https://colab.research.google.com/github/madewithml/basics/blob/master/notebooks/10_Data_and_Models/10_PT_Data_and_Models.ipynb">♨️ Java </a></div>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
+	</div>
     </td>
     </tr>
     <td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
