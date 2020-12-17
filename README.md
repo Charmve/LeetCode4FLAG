@@ -42,20 +42,19 @@
 ## Top100
 
 <table class="table table-striped table-bordered table-vcenter">
-    <tbody class=top100-algorithm-table-content>
-    <tr>
-	    <td>
-	    <strong>Company</strong>
-	    </td>
-	    <td>
-	    <strong>Level</strong>
-	    </td>
-	    <td>
-	    <strong>LeetCode Link</strong>
-	    </td>
-	    <td>
-	    <strong>Code</strong>
-	    </td>
+	<tr>
+	  <td>
+	  	<strong>Company</strong>
+	  </td>
+	  <td>
+	  	<strong>Level</strong>
+	  </td>
+	  <td>
+	  	<strong>LeetCode Link</strong>
+	  </td>
+	  <td>
+	  	<strong>Code</strong>
+	  </td>
 	</tr>
 	<tr>
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
@@ -629,7 +628,6 @@
 	</div>
     </td>
     </tr>
-    </tbody>
 </table>
 
 <br><br>
@@ -637,19 +635,18 @@
 ## Classified by Algorithm
 
 <table class="table table-striped table-bordered table-vcenter">
-<tbody class=top100-algorithm-table-content>
     <tr>
         <td>
-        <strong>Algorithm</strong>
+        	<strong>Algorithm</strong>
         </td>
         <td>
-        <strong>LeetCode Link</strong>
+        	<strong>LeetCode Link</strong>
         </td>
         <td>
-        <strong>Level</strong>
+        	<strong>Level</strong>
         </td>
         <td>
-        <strong>Code</strong>
+        	<strong>Code</strong>
         </td>
     </tr>
     <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
@@ -1302,7 +1299,6 @@
 	</div>
     </td>
     </tr>
-</tbody>
 </table>
 
 
@@ -1372,8 +1368,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 
-
-<br><br>
+<br>
 # Updating...
 
 
