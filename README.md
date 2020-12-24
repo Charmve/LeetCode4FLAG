@@ -17,7 +17,7 @@
   <img align="center" src="FLAG.jpg">
   <br><br>
   <p align="center">
-	  <img src="https://badgen.net/badge/FLAG/2.1/orange" alt="Version No.">
+	  <img src="https://badgen.net/badge/FLAG/V2.1/orange" alt="Version No.">
   <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/README.md"><img src="https://img.shields.io/badge/language-English-green" alt="English Version"></a>
   <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/ReadmeChinese.md"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
   </p>
