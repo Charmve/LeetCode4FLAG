@@ -398,30 +398,39 @@
     </td>
     </tr>
     <tr>
-    <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
+    <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <br>
        <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30">
      </td>
-     <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
+     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
      </td>
      <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String">🚠 833. Find And Replace in String</a></td>
      <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.java">♨️ Java </a>
-	</div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.java">♨️ Java </a>
+		</div>
     </td>
     </tr>
     <tr>
     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
     <td>
         <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
-	</div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
+		</div>
+    </td>
+	<tr>
+    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/67.%20Add%20Binary">🐠 67. Add Binary</a></td>
+	<td>
+	    <div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/67.%20Add%20Binary/67_add-binary.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/67.%20Add%20Binary/67_add-binary.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/67.%20Add%20Binary/67_add-binary.java">♨️ Java </a>
+		</div>
     </td>
     </tr>
    	<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
@@ -1302,8 +1311,7 @@
 </table>
 
 ## Guide
-## Dynamic Programming
-<br>动态规划
+### Dynamic Programming <br>动态规划
 
 # To-Do
 
