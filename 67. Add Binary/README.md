@@ -19,7 +19,7 @@ Output: "10101"
 - `a` and `b` consist only of `'0'` or `'1'` characters.
 - Each string does not contain leading zeros except for the zero itself.
 
-<right>From 力扣（LeetCode）</right>
+```From 力扣（LeetCode）```
 
 
 ## Debug
