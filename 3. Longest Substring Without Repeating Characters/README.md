@@ -48,6 +48,10 @@ public:
 
 🐛 https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 
+## Solution
+
+[Chinese](charmve.github.io/LeetCode4FLAG/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution-Leetcode_3.html)
+
 ## AC Code
 <div>
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.cpp">:shipit: C++</a> | 
