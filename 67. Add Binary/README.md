@@ -19,9 +19,9 @@ Output: "10101"
 - `a` and `b` consist only of `'0'` or `'1'` characters.
 - Each string does not contain leading zeros except for the zero itself.
 
-```
-From 力扣（LeetCode）
-```
+<p align="right">
+    From 力扣（LeetCode）
+</p>
 
 
 ## Debug
