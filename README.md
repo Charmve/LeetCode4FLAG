@@ -1301,6 +1301,10 @@
     </tr>
 </table>
 
+## Guide
+## Dynamic Programming
+<br>动态规划
+
 # To-Do
 
 ## 双指针算法
