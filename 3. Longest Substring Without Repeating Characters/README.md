@@ -50,7 +50,7 @@ public:
 
 ## Solution
 
-[Chinese](charmve.github.io/LeetCode4FLAG/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution-Leetcode_3.html) English
+[Chinese](https://www.cnblogs.com/mfrank/p/10472651.html) | English
 
 ## AC Code
 <div>
