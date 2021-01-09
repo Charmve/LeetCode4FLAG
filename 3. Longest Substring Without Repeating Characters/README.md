@@ -50,7 +50,7 @@ public:
 
 ## Solution
 
-[Chinese](https://www.cnblogs.com/mfrank/p/10472651.html) | English
+[Chinese](Solution-Leetcode_3.md) | English
 
 ## AC Code
 <div>
