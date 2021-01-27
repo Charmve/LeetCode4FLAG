@@ -1376,17 +1376,17 @@
 - You can also interact through [GitHub issues](https://github.com/Charmve/LeetCode4FLAG/issues). If there is any problem, or a change needs to be made to the repo, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [Offical Account with WeChat](https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true).
 
-# 💖 Support this project
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+## 💖 Support this project
 Donating to help me continue working on this project. <a href="https://ko-fi.com/charmve"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
 
 <a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <a href="https://www.paypal.com/paypalme/Charmve"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate with Paypal"></a> 
 <a href="https://charmve.github.io/sponsor.png"><img src="https://img.shields.io/badge/Donate-WeChat-green" alt="Donate with WeChat"></a>
-
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 <br>
 
