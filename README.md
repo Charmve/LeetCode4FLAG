@@ -1392,8 +1392,6 @@ Donating to help me continue working on this project. <a href="https://ko-fi.com
 	© 2021 Charmve.
 </p>
 
-<br>
-
 # Updating...
 
 
