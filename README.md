@@ -1388,6 +1388,10 @@ Donating to help me continue working on this project. <a href="https://ko-fi.com
 <a href="https://www.paypal.com/paypalme/Charmve"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate with Paypal"></a> 
 <a href="https://charmve.github.io/sponsor.png"><img src="https://img.shields.io/badge/Donate-WeChat-green" alt="Donate with WeChat"></a>
 
+<p align="center">
+	© 2021 Charmve.
+</p>
+
 <br>
 
 # Updating...
