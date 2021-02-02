@@ -59,7 +59,7 @@
 	<tr>
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
         	<br>
-        	<img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606451319200&di=2ab4f556738b77aab80f58c265f19827&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-497e6c397419d313dc83d03ad3ed8655_1200x500.jpg" width="78" height="60">
+        	<img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606451319200&di=2ab4f556738b77aab80f58c265f19827&imgtype=0&src=http%3A%2F%2Fpic2.zhimg.com%2Fv2-497e6c397419d313dc83d03ad3ed8655_1200x500.jpg" width="78" height="60" alt="Amazon">
         </td>
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         	<font color = green>Easy</font>
@@ -228,7 +228,7 @@
 <tr>
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
         	<br>
-       		<img class="ai-header-badge-img" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2836168405,102812350&fm=26&gp=0.jpg" width="78" height="30">
+       		<img class="ai-header-badge-img" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2836168405,102812350&fm=26&gp=0.jpg" width="78" height="30" alt="Google">
         </td>
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
@@ -400,7 +400,7 @@
     <tr>
     <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
         <br>
-       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30">
+       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30" alt="FaceBook">
      </td>
      <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
@@ -565,7 +565,7 @@
     <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
 					<br>
-					<img class="ai-header-badge-img" src="https://cdn.vox-cdn.com/thumbor/drG69iSTSbsYDNcckVzB3x97pDA=/7x0:633x417/920x613/filters:focal(7x0:633x417):format(webp)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="78" height="51">
+					<img class="ai-header-badge-img" src="https://cdn.vox-cdn.com/thumbor/drG69iSTSbsYDNcckVzB3x97pDA=/7x0:633x417/920x613/filters:focal(7x0:633x417):format(webp)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" width="78" height="51" alt="MicroSoft">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         	<font color = green>Easy</font>
