@@ -492,7 +492,7 @@
     <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
         <br>
-        <img class="ai-header-badge-img" src="https://qph.fs.quoracdn.net/main-qimg-05f1ceb11a77b68fd6bf72da21b3400c" width="78" height="51">
+        <img class="ai-header-badge-img" src="https://qph.fs.quoracdn.net/main-qimg-05f1ceb11a77b68fd6bf72da21b3400c" width="78" height="51" alt="LinkedIn">
         </td>
         <td colspan="1" rowspan="2" class="top100-algorithm-table-points ai-orange-link">
         <font color = green>Easy</font>
