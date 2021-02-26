@@ -1,4 +1,4 @@
-## Description
+## 139. Word Break
 Given a <strong>non-empty</strong> string s and a dictionary wordDict containing a list of <strong>non-empty</strong> words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
 
 <strong>Note:</strong>
