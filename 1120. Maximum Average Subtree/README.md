@@ -1,4 +1,4 @@
-## Description
+## 1120. Maximum Average Subtree
 
 Given the root of a binary tree, find the maximum average value of any subtree of that tree.
 
