@@ -1370,6 +1370,58 @@
 - 分割回文串
 - N皇后问题
 
+# 算法思维+算法模板
+## 回溯
+```
+result = []
+def backtrack(路径, 选择列表):
+    if 满足结束条件:
+        result.add(路径)
+        return
+
+    for 选择 in 选择列表:
+        做选择
+        backtrack(路径, 选择列表)
+        撤销选择
+```
+**LeetCode 22. Generate Parentheses** https://leetcode-cn.com/problems/generate-parentheses/
+
+Given ``n`` pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+**Example 1:**
+```
+Input: n = 3
+Output: ["((()))","(()())","(())()","()(())","()()()"]
+```
+**Example 2:**
+```
+Input: n = 1
+Output: ["()"]
+```
+
+**Constraints:**
+
+``1 <= n <= 8``
+
+```
+void backtrack(int n, int i, string& track) {
+    // i 代表当前的位置，共 2n 个位置
+    // 穷举到最后一个位置了，得到一个长度为 2n 组合
+    if (i == 2 * n) {
+        print(track);
+        return;
+    }
+
+    // 对于每个位置可以是左括号或者右括号两种选择
+    for choice in ['(', ')'] {
+        track.push(choice); // 做选择
+        // 穷举下一个位置
+        backtrack(n, i + 1, track);
+        track.pop(choice); // 撤销选择
+    }
+}
+```
+
 # Community
 
 - We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9BBt5BndMx) This should be your first stop to talk with other Coding friends. Why don't you introduce yourself right now? [Join the Coding channel in LeetCode4FLAG Discord](https://discord.gg/9BBt5BndMx)
