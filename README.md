@@ -1384,9 +1384,9 @@ def backtrack(路径, 选择列表):
         backtrack(路径, 选择列表)
         撤销选择
 ```
-<details><summary>BibTeX**LeetCode 22. Generate Parentheses** https://leetcode-cn.com/problems/generate-parentheses/</summary>
+<details><summary><b>LeetCode 22. Generate Parentheses</b> https://leetcode-cn.com/problems/generate-parentheses/</summary>
 
-Given ``n`` pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+<br>Given ``n`` pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
 **Example 1:**
 ```
