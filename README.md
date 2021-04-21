@@ -1423,6 +1423,9 @@ void backtrack(int n, int i, string& track) {
 }
 ```
 
+See more -> [题解模板.md](./题解模板.md)
+
+
 # Community
 
 - We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9BBt5BndMx) This should be your first stop to talk with other Coding friends. Why don't you introduce yourself right now? [Join the Coding channel in LeetCode4FLAG Discord](https://discord.gg/9BBt5BndMx)
