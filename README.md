@@ -26,8 +26,8 @@
 # LeetCode4FLAG
 
 🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. Offer, offer, offer!
-
-```
+<div align="center">
+<code>
   ☁️  ☁️  🌞　   ☁️        ☁️　　
         ☁️   ✈️    ☁️  🚁
 🏡 🏫 🏢 🏣 🏥 🏦 🏪 🏩 🏨 🏬
@@ -36,8 +36,8 @@
   🌳/🐢    🛵  | 🚔    \ 💐💃🕺
  🌴/   🚖      |         \🌲 👫
  
-```
-
+</code>
+</div>
 
 ## Top100
 
