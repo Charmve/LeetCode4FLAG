@@ -26,8 +26,8 @@
 # LeetCode4FLAG
 
 🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. Offer, offer, offer!
-<div align="center">
-<code>
+
+```
   ☁️  ☁️  🌞　   ☁️        ☁️　　
         ☁️   ✈️    ☁️  🚁
 🏡 🏫 🏢 🏣 🏥 🏦 🏪 🏩 🏨 🏬
@@ -36,8 +36,7 @@
   🌳/🐢    🛵  | 🚔    \ 💐💃🕺
  🌴/   🚖      |         \🌲 👫
  
-</code>
-</div>
+```
 
 ## Top100
 
@@ -1423,7 +1422,7 @@ void backtrack(int n, int i, string& track) {
 }
 ```
 
-See more -> [题解模板.md](./题解模板.md)
+See more -> [<b>题解模板.md</b>](./题解模板.md)
 
 
 # Community
