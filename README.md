@@ -1309,7 +1309,7 @@
     </tr>
 </table>
 
-## Guide
+## Guide  [<b>题解模板.md</b>](./题解模板.md)
 ### Dynamic Programming <br>动态规划
 
 # To-Do
