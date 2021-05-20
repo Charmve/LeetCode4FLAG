@@ -658,7 +658,8 @@
         </td>
     </tr>
     <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
-    	<br><font  size = 4>Dynamic Programming<br>动态规划</font>
+    	<br><font  size = 4>Dynamic Programming<br>动态规划
+      <br><br> --> <a href="./题解模板.md#动态规划-dynamic-programming">解题模板</a></font>
     </td>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days">⛺ 568. Maximum Vacation Days</a></td>
@@ -750,7 +751,8 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Divide & Conquer<br>分治思想</font>
+        	<br><font  size = 4>Divide & Conquer<br>分治思想
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays">✂️ 4. Median of Two Sorted Arrays</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
@@ -808,7 +810,8 @@
     </tr>    
     <tr>
         <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Dichotomy<br>二分法</font>
+        	<br><font  size = 4>Dichotomy<br>二分法
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">✂️ 153. Find Minimum in Rotated Sorted Array</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
@@ -868,9 +871,10 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Recursion<br>递归</font>
+        	<br><font  size = 4>Recursion<br>递归
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
         </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
+        <td><a href="https://leetcode-cn.com/problems/generate-parentheses/">✂️ 22. 括号生成</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
 			<div>
@@ -881,7 +885,7 @@
     	</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
+        <td><a href="https://leetcode-cn.com/problems/gray-code/">🐼 89. 格雷编码</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -892,7 +896,18 @@
     </td>
     </tr>
 	<tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/balanced-binary-tree/">📈 110. 平衡二叉树</a></td>
+        <td><font color = green>⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/">📈 17. 电话号码的字母组合</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -903,18 +918,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/permutations/">📈 46. 全排列</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -926,7 +930,105 @@
     </tr>
     <tr>
     <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
+        <a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🔎 124. 二叉树中的最大路径和</a>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+    </td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
+        	<br><font  size = 4>Sorting Algorithm<br>排序算法
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
+        </td>
+        <td><a href="https://leetcode-cn.com/problems/kth-largest-element-in-an-array/">✂️ 215. 数组中的第K个最大元素</a></td>
+        <td><font color = green>⭐⭐⭐⭐</font></td>
+        <td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
+			</div>
+    	</td>
+    </tr>
+    <tr>
+        <td><a href="https://zhuanlan.zhihu.com/p/157708020">🐼 LintCode. 无序数组K小元素</a></td>
+        <td><font color = green>⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+	<tr>
+        <td><a href="https://leetcode-cn.com/problems/k-inverse-pairs-array/">📈 629. K个逆序对数组</a></td>
+        <td><font color = green>⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/">🐼 剑指 Offer 51. 数组中的逆序对</a></td>
+        <td><font color = green>⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/count-of-range-sum/">📈 327. 区间和的个数</a></td>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://blog.csdn.net/cumt_cx/article/details/47820137/">🔎 LintCode 399.Nuts & Bolts Problem-Nuts 和 Bolts 的问题</a>
+        <td><font color = green>⭐⭐⭐⭐</font></td>
+    </td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://leetcode-cn.com/problems/orderly-queue/">🐼 899. 有序队列</a>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+    </td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://leetcode-cn.com/problems/wiggle-subsequence/">🔎 376. 摆动序列</a>
         <td><font color = green>⭐⭐⭐</font></td>
     </td>
     <td>
@@ -939,9 +1041,10 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="7" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Sorting Algorithm<br>排序算法</font>
+        	<br><font  size = 4>Traverse/Visit<br>遍历
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
         </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
+        <td><a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/">✂️ 123. 买卖股票的最佳时机 III</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
 			<div>
@@ -952,91 +1055,7 @@
     	</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
-        <td><font color = green>⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-	<tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
-        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td colspan="1" rowspan="7" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Traverse/Visit<br>遍历</font>
-        </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
-        <td>
-			<div>
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
-			</div>
-    	</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
+        <td><a href="https://blog.csdn.net/zjwreal/article/details/100023373">🐼 644. 最大子段和 II</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1047,7 +1066,7 @@
     </td>
     </tr>
 	<tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/">📈 102. 二叉树的层序遍历</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1058,7 +1077,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/binary-tree-preorder-traversal/">🐼 144. 二叉树的前序遍历</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1069,7 +1088,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/binary-tree-postorder-traversal/">📈 145. 二叉树的后序遍历</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1081,7 +1100,7 @@
     </tr>
     <tr>
     <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
+        <a href="https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/">🔎 987. 二叉树的垂序遍历</a>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
     </td>
     <td>
@@ -1094,8 +1113,8 @@
     </tr>
     <tr>
     <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
+        <a href="https://leetcode-cn.com/problems/binary-tree-paths/">🔎 257. 二叉树的所有路径</a>
+        <td><font color = green>⭐⭐</font></td>
     </td>
     <td>
         <div>
@@ -1106,10 +1125,11 @@
     </td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Dual Pointer Algorithm<br>双指针算法</font>
+        <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
+        	<br><font  size = 4>Dual Pointer Algorithm<br>双指针算法
+          <br><br> --> <a href="./题解模板.md#二分法-binary-search">解题模板</a></font>
         </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters">✂️ 3. Longest Substring Without Repeating Characters</a></td>
+        <td><a href="https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/">✂️ 剑指 Offer 48. 最长不含重复字符的子字符串</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 			<div>
@@ -1120,7 +1140,7 @@
     	</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
+        <td><a href="https://leetcode-cn.com/problems/container-with-most-water/">🐼 11. 盛最多水的容器</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1131,7 +1151,19 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/trapping-rain-water/">📈 42. 接雨水</a></td>
+        <td><font color = green>⭐⭐⭐
+        #双指针-two-pointers</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/palindromic-substrings/">📈 647. 回文子串</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1142,7 +1174,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/reverse-linked-list-ii/">✂️ 92. 反转链表 II</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1154,7 +1186,79 @@
     </tr>
     <tr>
     <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
+        <a href="https://leetcode-cn.com/problems/linked-list-cycle-ii/">🔎 142. 环形链表 II</a>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+    </td>
+    <td>
+        <div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
+        	<br><font  size = 4>Breadth First Search<br>宽度/广度优先搜索
+          <br><br> --> <a href="./题解模板.md#宽度优先搜索-bfs">解题模板</a></font>
+        </td>
+        <td><a href="https://leetcode-cn.com/problems/word-ladder">✂️ 127. 单词接龙</a></td>
+        <td><font color = green>⭐⭐⭐⭐</font></td>
+        <td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
+			</div>
+    	</td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/number-of-islands/">🐼 200. 岛屿数量</a></td>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+	<tr>
+        <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/">📈 102. 二叉树的层序遍历</a></td>
+        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/clone-graph">📈 133. 克隆图</a></td>
+        <td><font color = green>⭐⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+        <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">📈 107. 二叉树的层序遍历 II</a></td>
+        <td><font color = green>⭐⭐⭐</font></td>
+        <td>
+	<div>
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+	</div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <a href="https://leetcode-cn.com/problems/binary-tree-right-side-view/">🔎 199. 二叉树的右视图</a>
         <td><font color = green>⭐⭐⭐</font></td>
     </td>
     <td>
@@ -1167,80 +1271,10 @@
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Breadth First Search<br>宽度/广度优先搜索</font>
+        	<br><font  size = 4>Depth First Search<br>深度优先搜索
+          <br><br> --> <a href="./题解模板.md#深度优先搜索-dfs">解题模板</a></font>
         </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
-        <td>
-			<div>
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.cpp">:shipit: C++</a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.py">🐍 Python </a> | 
-			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
-			</div>
-    	</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
-        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-	<tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
-        <td><font color = green>⭐⭐⭐</font></td>
-        <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/21.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-    <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
-        <td><font color = green>⭐⭐⭐</font></td>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
-	</div>
-    </td>
-    </tr>
-    <tr>
-        <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
-        	<br><font  size = 4>Depth First Search<br>深度优先搜索</font>
-        </td>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/74.%20Search%20a%202D%20Matrix">✂️ 74. Search a 2D Matrix</a></td>
+        <td><a href="https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/">✂️ 111. 二叉树的最小深度</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 			<div>
@@ -1251,7 +1285,7 @@
     	</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1.%20Two%20Sum">🐼 1. Two Sum</a></td>
+        <td><a href="https://leetcode-cn.com/problems/insert-into-bits-lcci/">🐼 面试题 05.01. 插入</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1262,7 +1296,7 @@
     </td>
     </tr>
 	<tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/word-ladder-ii/">📈 126. 单词接龙 II</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1273,7 +1307,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/palindrome-partitioning/">📈 131. 分割回文串</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1284,7 +1318,7 @@
     </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/21.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
+        <td><a href="https://leetcode-cn.com/problems/n-queens/">📈 51. N 皇后</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
 	<div>
@@ -1309,67 +1343,7 @@
     </tr>
 </table>
 
-## Guide  [<b>题解模板.md</b>](./题解模板.md)
-### Dynamic Programming <br>动态规划
-
-# To-Do
-
-## 双指针算法
-
-- 最长无重复字符的子串
-- 装最多水的容器
-- 接雨水
-- 有效回文串
-- 带环链表 II
-
-## 排序算法
-
-- 摆动排序
-- 构造队列
-- Nuts 和 Bolts 的问题
-- 第k大元素
-- 无序数组K小元素
-- 逆序对
-- 区间和的个数
-
-## 宽度优先搜索
-
-- 单词接龙
-- 岛屿的个数
-- 二叉树的层次遍历
-- 克隆图
-- 二叉树的锯齿形层次遍历
-- 二叉树的右视图
-
-## 递归
-
-- 生成括号
-- 格雷编码
-- 平衡二叉树
-- 电话号码的字母组合
-- 全排列
-- 二叉树中的最大路径和
-
-## 遍历
-
-- 买卖股票的最佳时机 III
-- 最大子数组 II
-- 二叉树的层次遍历
-- 二叉树的前序遍历
-- 二叉树的后序遍历
-- 二叉树的所有路径
-- 二叉树的层次遍历 II
-
-## 深度优先搜索
-
-- 二叉树的最小深度
-- 插入五
-- 克隆图
-- 单词接龙 II
-- 分割回文串
-- N皇后问题
-
-# 算法思维+算法模板
+# 算法思维+[<b>算法模板</b>](./题解模板.md)
 ## 回溯
 ```
 result = []
