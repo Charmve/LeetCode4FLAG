@@ -3,11 +3,11 @@
 Given a string containing just the characters ``'('`` and ``')'``, find the length of the longest valid (well-formed) parentheses substring.
 
 <strong>Example 1:</strong>
-
+```
 Input: s = "(()"
 Output: 2
 Explanation: The longest valid parentheses substring is "()".
-
+```
 <strong>Example 2:</strong>
 ```
 Input: s = ")()())"
