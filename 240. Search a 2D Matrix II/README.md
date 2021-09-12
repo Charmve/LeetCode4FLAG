@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=difficulty&message=medium&color=orange"/>
+
 ## Description
 
 Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:

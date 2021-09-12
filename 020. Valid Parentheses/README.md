@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=difficulty&message=easy&color=green"/>
+
 ## Description
 
 Given a string s containing just the characters ``'('``, ``')'``, ``'{'``, ``'}'``, ``'['`` and ``']'``, determine if the input string is valid.
