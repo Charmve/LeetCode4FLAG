@@ -1,42 +1,66 @@
-<p align="right">
-	<a class="ai-header-badge" target="_blank" href="https://github.com/madewithml/basics">
-	     <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/madewithml/basics.svg?style=social&label=Star">
-	</a>&nbsp;
-	<a class="ai-header-badge" target="_blank" href="https://linkedin.com/in/wei-zhang-647b29133/">
-	      <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-	</a>&nbsp;
-	<a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
-	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
-	</a>&nbsp;
-	<a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
-	       <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
-	</a>&nbsp;
-</p>
+<h1> LeetCode4FLAG
+  <sup>
+    &nbsp;
+    <a class="ai-header-badge" target="_blank" href="https://www.zhihu.com/people/MaiweiE-com/posts">
+          <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Zhihu&logo=zhihu&style=social">
+    </a>
+    <a class="ai-header-badge" target="_blank" href="https://linkedin.com/in/wei-zhang-647b29133/">
+          <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+    </a>
+    <a class="ai-header-badge" target="_blank" href="https://www.kaggle.com/yidazhang07">
+          <img class="ai-header-badge-img" src="https://img.shields.io/badge/style--5eba00.svg?label=Kaggle&logo=kaggle&style=social">
+    </a>
+    <a class="ai-header-badge" target="_blank" href="https://github.com/Charmve/LeetCode4FLAG">
+        <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/Charmve/LeetCode4FLAG.svg?style=social&label=Star">
+    </a>
+  </sup>
+</h1> 
+
+🌍 English | [简体中文](README-zh_CN.md)| [日本語](README-jp_JP.md) | [Українською](README-uk_UA.md)
+<br>
 
 <div align="center">
-  <img align="center" src="FLAG.jpg">
-  <br><br>
-  <p align="center">
-	  <img src="https://badgen.net/badge/FLAG/V2.1/orange" alt="Version No.">
-  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/README.md"><img src="https://img.shields.io/badge/language-English-green" alt="English Version"></a>
-  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/master/ReadmeChinese.md"><img src="https://img.shields.io/badge/language-Chinese-red" alt="Chinese Version"></a>
-  </p>
+  <div align="center">
+    <img align="center" src="FLAG.jpg">
+    <br><br>
+    <p align="center">
+        <a href="https://circleci.com/gh/Charmve/computer-vision-in-action"><img src="https://circleci.com/gh/Charmve/computer-vision-in-action.svg?style=svg" alt="CircleCI" title="CircleCI"></a>
+        <img src="https://badgen.net/badge/FLAG/V2.1/orange" alt="Version No.">
+        <a href="https://gplv3.fsf.org/" target="_blank" style="display:inline-block"><img src="https://img.shields.io/badge/license-GPL%203.0-red?logo=apache" alt="Code License"></a>
+        <a name="installation"></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Wiki-简体中文-000000.svg?style=flat-square&amp;logo=GitBook" alt="Chinese Version"></a>
+    </p>
+  </div>
+    <p>
+      🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. <b>Offer</b>, <b>Offer</b>, <b>Offer</b>!
+    </p>
+    <p align="center">
+        <a href="">高频合集</a> •
+        <a href="">答题模板</a> •
+        <a href="">打卡群</a>  •
+        <a href="">📕 Docs</a> 
+    </p>
 </div>
 
-# LeetCode4FLAG
 
-🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. Offer, offer, offer!
+----
+<b>Note: Please raise an issue for any suggestions, corrections, and feedback.</b>
 
-```
-  ☁️  ☁️  🌞　   ☁️        ☁️　　
-        ☁️   ✈️    ☁️  🚁
-🏡 🏫 🏢 🏣 🏥 🏦 🏪 🏩 🏨 🏬
-  👫🌲/     🚶‍ | 🚍  \🌳 🍃
-   🌱/  🚘     |🏃‍    \🌼🐈
-  🌳/🐢    🛵  | 🚔    \ 💐💃🕺
- 🌴/   🚖      |         \🌲 👫
- 
-```
+- [2020年最新FLAMG面试频率最高的127道题.xlsx](https://github.com/Charmve/LeetCode4FLAG/raw/main/2020最新-FLAMG面试频率最高的127道题.xlsx)
+- [Google最常考的40道动态规划题.xlsx](https://github.com/Charmve/LeetCode4FLAG/raw/main/Google最常考的40道动态规划题.xlsx)
+- [FaceBook高频题100道.xlsx](https://github.com/Charmve/LeetCode4FLAG/raw/main/Facebook高频题100道.xls)
+- CodeTop持续更新 https://codetop.cc/home
+
+<br>
+
+## Index
+
+- 🔥 [Top100](#top100)
+- 💠 [Classification](#classification)
+- 📕 [算法思维+算法模板](#算法思维算法模板)
+- 👥 [Community](#community)
+- :sparkling_heart: [Support](#-support-this-project)
+
+<br>
 
 ## Top100
 
@@ -638,9 +662,12 @@
     </tr>
 </table>
 
-<br><br>
+<br>
 
-## Classified by Algorithm
+[Index](#index)
+<br>
+
+## Classification
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
@@ -1343,6 +1370,11 @@
     </tr>
 </table>
 
+<br>
+
+[Index](#index)
+<br>
+
 # 算法思维+[<b>算法模板</b>](./题解模板.md)
 ## 回溯
 ```
@@ -1398,6 +1430,10 @@ void backtrack(int n, int i, string& track) {
 
 See more -> [<b>题解模板.md</b>](./题解模板.md)
 
+<br>
+
+[Index](#index)
+<br>
 
 # Community
 
@@ -1405,23 +1441,34 @@ See more -> [<b>题解模板.md</b>](./题解模板.md)
 - You can also interact through [GitHub issues](https://github.com/Charmve/LeetCode4FLAG/issues). If there is any problem, or a change needs to be made to the repo, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [Offical Account with WeChat](https://github.com/Charmve/PaperWeeklyAI/blob/master/MaiweiAI-com.png?raw=true).
 
+<br>
+
+[Index](#index)
+<br>
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
+<br>
+
+[Index](#index)
+<br>
+
 ## 💖 Support this project
-Donating to help me continue working on this project. <a href="https://ko-fi.com/charmve"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
+Donating to help me continue working on this project. <a href="https://charmve.github.io/sponsor.html"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
 
 <a href="https://www.buymeacoffee.com/Charmve" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<a href="https://www.paypal.com/paypalme/Charmve"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate with Paypal"></a> 
-<a href="https://charmve.github.io/sponsor.png"><img src="https://img.shields.io/badge/Donate-WeChat-green" alt="Donate with WeChat"></a>
+<a href="https://www.paypal.com/paypalme/Charmve" target="_blank"><img src="https://img.shields.io/badge/-PayPal-lightblue.svg?logo=paypal" alt="Donate with Paypal"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://img.shields.io/badge/-AliPay-blue.svg?logo=AliPay" alt="Donate with AliPay"></a> | <a href="https://charmve.github.io/sponsor.html" target="_blank"><img src="https://img.shields.io/badge/-WeChat-green.svg?logo=WeChat" alt="Donate with WeChat"></a>
 
-<p align="center">
-	© 2021 Charmve.
+
+
+<p align="right">
+	2021 ©  <a href="https://github.com/Charmve">Charmve</a>.
 </p>
 
-# Updating...
 
 
 <!--
