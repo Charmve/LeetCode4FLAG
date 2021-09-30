@@ -31,7 +31,7 @@
     </p>
   </div>
     <p>
-      🔥 🔥 High frequent interview LeetCode test for FaceBook，Linkedin，Amazon，Google. More importantly, the problems' solutions are provided. <b>Offer</b>, <b>Offer</b>, <b>Offer</b>!
+     High frequent interview LeetCode test for <b>F</b>aceBook, <b>L</b>inkedin, <b>A</b>mazon, <b>G</b>oogle. More importantly, the problems' solutions are provided in C/C++, Python and Java. <b>Offer</b>, <b>Offer</b>, <b>Offer</b> !
     </p>
     <p align="center">
         <a href="">高频合集</a> •
@@ -57,6 +57,7 @@
 - 🔥 [Top100](#top100)
 - 💠 [Classification](#classification)
 - 📕 [算法思维+算法模板](#算法思维算法模板)
+- :open_file_folder: [面经C++/后端/算法](https://blog.csdn.net/charmve/category_9622929.html)
 - 👥 [Community](#community)
 - :sparkling_heart: [Support](#-support-this-project)
 
@@ -78,6 +79,9 @@
 	  <td>
 	  	<strong>Code</strong>
 	  </td>
+	  <td>
+	  	<strong>Clock in</strong>
+	  </td>
 	</tr>
 	<tr>
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
@@ -95,6 +99,9 @@
 						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 					</div>
     		</td>
+	<td>
+	  	2021-09-30
+	</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum">🐼 1. Two Sum</a></td>
@@ -104,157 +111,185 @@
 						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
 						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
 					</div>
-    </td>
+    	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/021.%20Merge%20Two%20Sorted%20Lists">📈 21. Merge Two Sorted Lists</a></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td>
+			<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II">🔎 107. Binary Tree Level Order Traversal II</a>
+		</td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td>
-            <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses">👑 32. Longest Valid Parentheses</a>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.java">♨️ Java </a>
-	</div>
-    </td>
+		<td>
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses">👑 32. Longest Valid Parentheses</a>
+		</td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
-        <tr>
+	<tr>
         <td>
             <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses">🎡 20. Valid Parentheses</a>
         </td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.java">♨️ Java </a>
+			</div>
+    	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number">🐋 202. Happy Number</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree">🐑 1120. Maximum Average Subtree</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree">🐧 543. Diameter of Binary Tree</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
-    <td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
-        <font color = blue>Medium</font>
+    	<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
+        	<font color = blue>Medium</font>
         </td>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
+			</div>
+    	</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = red>Hard</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree">⛺ 297. Serialize and Deserialize Binary Tree</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/297_serialize-and-deserialize-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II">🌈 240. Search a 2D Matrix II</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/240.%20Search%20a%202D%20Matrix%20II/240_search-a-2d-matrix-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
-<tr>
+	<tr>
         <td colspan="1" rowspan="17" class="top100-algorithm-table-points ai-orange-link">
         	<br>
        		<img class="ai-header-badge-img" src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2836168405,102812350&fm=26&gp=0.jpg" width="78" height="30" alt="Google">
         </td>
         <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
-        <font color = green>Easy</font>
+        	<font color = green>Easy</font>
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/094.%20Binary%20Tree%20Inorder%20Traversal">🚠 94. Binary Tree Inorder Traversal</a></td>
         <td>
@@ -264,16 +299,20 @@
 						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/094.%20Binary%20Tree%20Inorder%20Traversal/94_binary-tree-inorder-traversal.java">♨️ Java </a>
 					</div>
    		 </td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree">⛵ 863. All Nodes Distance K in Binary Tree</a></td>
         <td>
-					<div>
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
-					</div>
-    		</td>
+			<div>
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.cpp">:shipit: C++</a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.py">🐍 Python </a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree/863_all-nodes-distance-k-in-binary-tree.java">♨️ Java </a>
+			</div>
+    	</td>
+		<td>
+		</td>
     </tr>
     <tr>
        <td>
@@ -286,6 +325,8 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 				</div>
    		 </td>
+		<td>
+		</td>
     </tr>
     <tr>
 			<td>
@@ -298,6 +339,8 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 				</div>
 			</td>
+		<td>
+		</td>
     </tr>
     <tr>
     	<td>
@@ -310,6 +353,8 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/032.%20Longest%20Valid%20Parentheses/32_longest-valid-parentheses.java">♨️ Java </a>
 				</div>
 			</td>
+		<td>
+		</td>
     </tr>
     <tr>
 			<td>
@@ -322,6 +367,8 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/020.%20Valid%20Parentheses/20_valid-parentheses.java">♨️ Java </a>
 				</div>
 			</td>
+		<td>
+		</td>
     </tr>
     <tr>
 			<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
@@ -332,6 +379,8 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
 				</div>
 			</td>
+		<td>
+		</td>
     </tr>
     <tr>
 			<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number">🐋 202. Happy Number</a></td>
@@ -342,175 +391,207 @@
 					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/202.%20Happy%20Number/202_happy-number.java">♨️ Java </a>
 				</div>
 			</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree">🐑 1120. Maximum Average Subtree</a></td>
-    <td>
-    <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.java">♨️ Java </a>
-	</div>
-    </td>
+    	<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree">🐑 1120. Maximum Average Subtree</a></td>
+    	<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/1120.%20Maximum%20Average%20Subtree/1120_maximum-average-subtree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/diameter-of-binary-tree/">🐏 543. Diameter of Binary Tree</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/543_diameter-of-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/543.%20Diameter%20of%20Binary%20Tree/544_diameter-of-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum">⛵ 494. Target Sum</a>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum">⛵ 494. Target Sum</a>
+		</td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/494.%20Target%20Sum/494_target-sum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
+    	<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST">🚁 938. Range Sum of BST</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/938.%20Range%20Sum%20of%20BST/938_range-sum-of-bst.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = red>Hard</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator">⛺ 173. Binary Search Tree Iterator</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator">⛺ 173. Binary Search Tree Iterator</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
-        <br>
-       <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30" alt="FaceBook">
-     </td>
-     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
-        <font color = green>Easy</font>
-     </td>
-     <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String">🚠 833. Find And Replace in String</a></td>
-     <td>
-        <div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.java">♨️ Java </a>
-		</div>
-    </td>
+		<td colspan="1" rowspan="10" class="top100-algorithm-table-points ai-orange-link">
+			<br>
+		   <img class="ai-header-badge-img" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602665253114&di=cfe13209f6eb18528ed16c833f82c222&imgtype=0&src=http%3A%2F%2Fwidefide.com%2Fwp-content%2Fuploads%2F2011%2F08%2Ffacebook_pic.jpg" width="78" height="30" alt="FaceBook">
+		 </td>
+		 <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
+			<font color = green>Easy</font>
+		 </td>
+		 <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String">🚠 833. Find And Replace in String</a></td>
+		 <td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/833.%20Find%20And%20Replace%20in%20String/833_find-and-replace-in-string.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
-    <td>
-        <div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
-		</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands">🌄 200. Number of Islands</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/200.%20Number%20of%20Islands/200_number-of-islands.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
 	<tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary">🐠 67. Add Binary</a></td>
-	<td>
-	    <div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.java">♨️ Java </a>
-		</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary">🐠 67. Add Binary</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/067.%20Add%20Binary/67_add-binary.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
    	<td colspan="1" rowspan="4" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II">🚩 90. Subsets II</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II">🚩 90. Subsets II</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/090.%20Subsets%20II/90_subsets-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number">🍐 17. Letter Combinations of a Phone Number</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number">🍐 17. Letter Combinations of a Phone Number</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/17_letter-combinations-of-a-phone-number.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array">🚁 525. Contiguous Array</a></td>
-        <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array">🚁 525. Contiguous Array</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/525.%20Contiguous%20Array/525_contiguous-array.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = red>Hard</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II">🎄 126. Word Ladder II</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II">🎄 126. Word Ladder II</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/126.%20Word%20Ladder%20II/126_word-ladder-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle">🎑 85. Maximal Rectangle</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle">🎑 85. Maximal Rectangle</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/085.%20Maximal%20Rectangle/85_maximal-rectangle.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
@@ -522,68 +603,80 @@
         </td>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String">🍋 678. Valid Parenthesis String</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
    	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III">⛵ 245. Shortest Word Distance III</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III">⛵ 245. Shortest Word Distance III</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/245.%20Shortest%20Word%20Distance%20III/245_shortest-word-distance-iii.cpp">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores">🚁 178. Rank Scores</a></td>
-        <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores">🚁 178. Rank Scores</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/178.%20Rank%20Scores/178_rank-scores.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = red>Hard</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator">⛺ 173. Binary Search Tree Iterator</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator">⛺ 173. Binary Search Tree Iterator</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/173.%20Binary%20Search%20Tree%20Iterator/173_binary-search-tree-iterator.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
@@ -594,15 +687,17 @@
         	<font color = green>Easy</font>
         </td>
         <td>
-					<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array">🎑 215. Kth Largest Element in an Array</a>
-			  </td>
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array">🎑 215. Kth Largest Element in an Array</a>
+		</td>
         <td>
-					<div>
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.cpp">:shipit: C++</a> | 
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.py">🐍 Python </a> | 
-						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.java">♨️ Java </a>
-					</div>
-				</td>
+			<div>
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.cpp">:shipit: C++</a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.py">🐍 Python </a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/215_kth-largest-element-in-an-array.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String">🍋 678. Valid Parenthesis String</a></td>
@@ -613,29 +708,35 @@
 						<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/678.%20Valid%20Parenthesis%20String/678_valid-parenthesis-string.java">♨️ Java </a>
 					</div>
     	</td>
+		<td>
+		</td>
     </tr>
    	<td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = blue>Medium</font>
     </td>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree">⛵ 236. Lowest Common Ancestor of a Binary Tree</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree">⛵ 236. Lowest Common Ancestor of a Binary Tree</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/236_lowest-common-ancestor-of-a-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
     <td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/">🚁 剑指 Offer 51. 数组中的逆序对</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/468.%20Validate%20IP%20Address/468_validate-ip-address.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <td colspan="1" rowspan="3" class="top100-algorithm-table-points ai-orange-link">
         <font color = red>Hard</font>
@@ -643,22 +744,26 @@
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-search-tree-iterator/">⛺ 99. Recover Binary Search Tree</a></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/099.%2Recover%2Binary%2Search%2Tree/99_recover-binary-search-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum">🌈 239. Sliding Window Maximum</a></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/239.%20Sliding%20Window%20Maximum/239_sliding-window-maximum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
 </table>
 
@@ -683,6 +788,9 @@
         <td>
         	<strong>Code</strong>
         </td>
+		<td>
+			<strong>Clock in</strong>
+		</td>
     </tr>
     <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
     	<br><font  size = 4>Dynamic Programming<br>动态规划
@@ -692,89 +800,105 @@
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days">⛺ 568. Maximum Vacation Days</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/568.%20Maximum%20Vacation%20Days/568_maximum-vacation-days.java">♨️ Java </a>
+			</div>
+    	</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs">🌈 70. Climbing Stairs</a></td>
-    <td><font color = green>⭐⭐</font></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs">🌈 70. Climbing Stairs</a></td>
+		<td><font color = green>⭐⭐</font></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/070.%20Climbing%20Stairs/70_climbing-stairs.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching">🚀 10. Regular Expression Matching</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/010.%20Regular%20Expression%20Matching/10_regular-expression-matching.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber">⛺ 198. House Robber</a></td>
         <td><font color = red>⭐⭐</font></td>
         <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/198.%20House%20Robber/198_house-robber.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break">🌈 139. Word Break</a></td>
-    <td><font color = red>⭐⭐⭐</font></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break">🌈 139. Word Break</a></td>
+		<td><font color = red>⭐⭐⭐</font></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/139.%20Word%20Break/139_word-break.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
-    <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray">🎏 152. Maximum Product Subarray</a></td>
+		<td><font color = green>⭐⭐⭐⭐⭐</font></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/152.%20Maximum%20Product%20Subarray/152_maximum-product-subarray.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways">🌈 91. Decode Ways</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/091.%20Decode%20Ways/91_decode-ways.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance">🐼 72. Edit Distance</a></td>
-    <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-    <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.java">♨️ Java </a>
-	</div>
-    </td>
+		<td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance">🐼 72. Edit Distance</a></td>
+		<td><font color = green>⭐⭐⭐⭐⭐</font></td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/072.%20Edit%20Distance/72_edit-distance.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
@@ -784,56 +908,66 @@
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays">✂️ 4. Median of Two Sorted Arrays</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
-		<div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.java">♨️ Java </a>
-		</div>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/004.%20Median%20of%20Two%20Sorted%20Arrays/4_median-of-two-sorted-arrays.java">♨️ Java </a>
+			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists">🐼 23. Merge k Sorted Lists</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
         <td>
-		<div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.java">♨️ Java </a>
-		</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/023.%20Merge%20k%20Sorted%20Lists/23_merge-k-sorted-lists.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/110.%20Balanced%20Binary%20Tree">📈 110. Balanced Binary Tree</a></td>
         <td><font color = green>⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/110.%20Balanced%20Binary%20Tree/110_balanced-binary-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum">🚀 124. Binary Tree Maximum Path Sum</a></td>
         <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-	<td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
-	</div>
-    </td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/124.%20Binary%20Tree%20Maximum%20Path%20Sum/124_binary-tree-maximum-path-sum.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree">🐼 98. Validate Binary Search Tree</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/098.%20Validate%20Binary%20Search%20Tree/98_validate-binary-search-tree.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>    
     <tr>
         <td colspan="1" rowspan="5" class="top100-algorithm-table-points ai-orange-link">
@@ -843,58 +977,68 @@
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array">✂️ 153. Find Minimum in Rotated Sorted Array</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-		<div>
-			<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.cpp">:shipit: C++</a> | 
-			<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.py">🐍 Python </a> | 
-			<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.java">♨️ Java </a>
-		</div>
+			<div>
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.cpp">:shipit: C++</a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.py">🐍 Python </a> | 
+				<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/153_find-minimum-in-rotated-sorted-array.java">♨️ Java </a>
+			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array">🐼 33. Search in Rotated Sorted Array</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-		<div>
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.cpp">:shipit: C++</a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.py">🐍 Python </a> | 
-		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.java">♨️ Java </a>
-		</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/033.%20Search%20in%20Rotated%20Sorted%20Array/33_search-in-rotated-sorted-array.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/069.%20Sqrt(x)">📈 69. Sqrt(x)</a></td>
         <td><font color = green>⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.java">♨️ Java </a>
-	</div>
-    </td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/069.%20Sqrt(x)/69_sqrtx.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td>
-        <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers">🔎 29. Divide Two Integers</a>
-        <td><font color = green>⭐⭐⭐</font></td>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.java">♨️ Java </a>
-	</div>
-    </td>
+		<td>
+			<a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers">🔎 29. Divide Two Integers</a>
+			<td><font color = green>⭐⭐⭐</font></td>
+		</td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/029.%20Divide%20Two%20Integers/29_divide-two-integers.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element">🐼 162. Find Peak Element</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/162.%20Find%20Peak%20Element/162_find-peak-element.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
@@ -910,63 +1054,75 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/gray-code/">🐼 89. 格雷编码</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
 	<tr>
         <td><a href="https://leetcode-cn.com/problems/balanced-binary-tree/">📈 110. 平衡二叉树</a></td>
         <td><font color = green>⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/">📈 17. 电话号码的字母组合</a></td>
         <td><font color = green>⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/permutations/">📈 46. 全排列</a></td>
         <td><font color = green>⭐⭐⭐⭐</font></td>
         <td>
-	<div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
-	</div>
-    </td>
+		<div>
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.cpp">:shipit: C++</a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.py">🐍 Python </a> | 
+		  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
+		</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
-    <td>
-        <a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🔎 124. 二叉树中的最大路径和</a>
-        <td><font color = green>⭐⭐⭐⭐⭐</font></td>
-    </td>
-    <td>
-        <div>
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
-	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
-	</div>
-    </td>
+		<td>
+			<a href="https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/">🔎 124. 二叉树中的最大路径和</a>
+			<td><font color = green>⭐⭐⭐⭐⭐</font></td>
+		</td>
+		<td>
+			<div>
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.cpp">:shipit: C++</a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.py">🐍 Python </a> | 
+			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
+			</div>
+		</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="8" class="top100-algorithm-table-points ai-orange-link">
@@ -982,6 +1138,8 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://zhuanlan.zhihu.com/p/157708020">🐼 LintCode. 无序数组K小元素</a></td>
@@ -993,6 +1151,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+	</td>
     </tr>
 	<tr>
         <td><a href="https://leetcode-cn.com/problems/k-inverse-pairs-array/">📈 629. K个逆序对数组</a></td>
@@ -1004,6 +1164,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+	</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/">🐼 剑指 Offer 51. 数组中的逆序对</a></td>
@@ -1015,6 +1177,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+	</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/count-of-range-sum/">📈 327. 区间和的个数</a></td>
@@ -1026,6 +1190,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+	</td>
     </tr>
     <tr>
     <td>
@@ -1039,6 +1205,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+	</td>
     </tr>
     <tr>
     <td>
@@ -1052,6 +1220,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1065,6 +1235,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="7" class="top100-algorithm-table-points ai-orange-link">
@@ -1080,6 +1252,8 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://blog.csdn.net/zjwreal/article/details/100023373">🐼 644. 最大子段和 II</a></td>
@@ -1091,6 +1265,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
 	<tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/">📈 102. 二叉树的层序遍历</a></td>
@@ -1102,6 +1278,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-preorder-traversal/">🐼 144. 二叉树的前序遍历</a></td>
@@ -1113,6 +1291,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-postorder-traversal/">📈 145. 二叉树的后序遍历</a></td>
@@ -1124,6 +1304,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1137,6 +1319,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1150,6 +1334,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
@@ -1165,6 +1351,8 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/003.%20Longest%20Substring%20Without%20Repeating%20Characters/3.longest-substring-without-repeating-characters.java">♨️ Java </a>
 			</div>
     	</td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/container-with-most-water/">🐼 11. 盛最多水的容器</a></td>
@@ -1176,6 +1364,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/trapping-rain-water/">📈 42. 接雨水</a></td>
@@ -1188,6 +1378,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/palindromic-substrings/">📈 647. 回文子串</a></td>
@@ -1199,6 +1391,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/reverse-linked-list-ii/">✂️ 92. 反转链表 II</a></td>
@@ -1210,6 +1404,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1223,6 +1419,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
@@ -1238,6 +1436,8 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 			</div>
     	</td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/number-of-islands/">🐼 200. 岛屿数量</a></td>
@@ -1249,6 +1449,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/001.%20Two%20Sum/1_two-sum.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
 	<tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/">📈 102. 二叉树的层序遍历</a></td>
@@ -1260,6 +1462,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/clone-graph">📈 133. 克隆图</a></td>
@@ -1271,6 +1475,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/">📈 107. 二叉树的层序遍历 II</a></td>
@@ -1282,6 +1488,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1295,6 +1503,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td colspan="1" rowspan="6" class="top100-algorithm-table-points ai-orange-link">
@@ -1310,6 +1520,8 @@
 			  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/074.%20Search%20a%202D%20Matrix/74_search-a-2d-matrix.java">♨️ Java </a>
 			</div>
     	</td>
+		<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/insert-into-bits-lcci/">🐼 面试题 05.01. 插入</a></td>
@@ -1332,6 +1544,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/palindrome-partitioning/">📈 131. 分割回文串</a></td>
@@ -1343,6 +1557,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
         <td><a href="https://leetcode-cn.com/problems/n-queens/">📈 51. N 皇后</a></td>
@@ -1354,6 +1570,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/blob/main/021.%20Merge%20Two%20Sorted%20Lists/21_merge-two-sorted-lists.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
     <tr>
     <td>
@@ -1367,6 +1585,8 @@
 	  <a href="https://github.com/Charmve/LeetCode4FLAG/tree/main/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/107_binary-tree-level-order-traversal-ii.java">♨️ Java </a>
 	</div>
     </td>
+	<td>
+		</td>
     </tr>
 </table>
 
