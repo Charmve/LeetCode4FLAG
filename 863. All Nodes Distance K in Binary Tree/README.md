@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=difficulty&message=easy&color=green"/>
+
 ## Description
 
 We are given a binary tree (with root node root), a target node, and an integer value K.

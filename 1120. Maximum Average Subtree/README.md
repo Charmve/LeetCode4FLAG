@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=difficulty&message=easy&color=green"/>
+
 ## 1120. Maximum Average Subtree
 
 Given the root of a binary tree, find the maximum average value of any subtree of that tree.

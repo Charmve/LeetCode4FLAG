@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=difficulty&message=easy&color=green"/>
+
 ## Description
 You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols ``+`` and ``-``. For each integer, you should choose one from ``+`` and ``-`` as its new symbol.
 
