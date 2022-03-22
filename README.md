@@ -80,7 +80,7 @@
 	  	<strong>Code</strong>
 	  </td>
 	  <td>
-	  	<strong>Clock in</strong>
+	  	<strong> ✅ AC</strong>
 	  </td>
 	</tr>
 	<tr>
@@ -789,7 +789,7 @@
         	<strong>Code</strong>
         </td>
 		<td>
-			<strong>Clock in</strong>
+			<strong> ✅ AC</strong>
 		</td>
     </tr>
     <td colspan="1" rowspan="9" class="top100-algorithm-table-points ai-orange-link">
