@@ -36,7 +36,7 @@
     <p align="center">
         <a href="">高频合集</a> •
         <a href="">答题模板</a> •
-        <a href="">打卡群</a>  •
+        <a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png">打卡群</a>  •
         <a href="">📕 Docs</a> 
     </p>
 </div>
