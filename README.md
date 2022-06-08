@@ -1675,6 +1675,20 @@ See more -> [<b>题解模板.md</b>](./题解模板.md)
 [Index](#index)
 <br>
 
+
+## :rocket: 知识星球
+
+专为求职面试中算法与数据结构的小伙伴，创了学习交流/刷题群（知识星球）！想要最快的提升算法与数据结构技能，和更多小伙伴一起来吧！
+
+<div align="center">
+  <a href="https://github.com/Charmve/CppMaster">
+	<img src="https://github.com/Charmve/CppMaster/blob/main/src/header.svg" width="50%" alt="Click to see the more details">
+  </a> <br>
+  <a href="https://charmve.github.io/CppMaster/src/maiwei-planet.jpg">
+	<img src="https://github.com/Charmve/CppMaster/blob/main/src/maiwei-planet.jpg" width="36%" alt="Click to see the more details">
+  </a>
+</div>
+
 ## 💖 Support this project
 Donating to help me continue working on this project. <a href="https://charmve.github.io/sponsor.html"><img src="https://img.shields.io/badge/style--5eba00.svg?label=Coffee&amp;logo=ko-fi&amp;style=social" alt="BuymeaCoffee"/></a>
 
